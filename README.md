@@ -1,71 +1,94 @@
-# Olá, eu sou Renato 
+# Olá, eu sou Renato Firmino
 
- Desenvolvedor em formação  
- Focado em Python, Django, React e Flutter  
- Buscando minha primeira oportunidade na área de tecnologia  
+Desenvolvedor em formação  
+Focado em Python, Django, React e Flutter  
+Buscando minha primeira oportunidade como desenvolvedor  
 
 ---
-## sobre mim
+
+## Sobre mim
 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Tenho experiência criando sistemas práticos, APIs e aplicações com foco em resolver problemas reais.
+Gosto de criar sistemas práticos com foco em resolver problemas reais, principalmente para pequenos negócios.
+
+Atualmente venho desenvolvendo aplicações completas com backend, frontend e deploy em produção.
 
 ---
-## projeto principal  quase completo implementando novas funcionalidades IA 
-- Acesse aqui: https://site-para-minhha-assistencia.onrender.com
+
+# Projeto Principal (em produção)
+
+## Sistema para Assistência Técnica (SmartFix)
+
+Acesse o sistema online:  
+https://site-para-minhha-assistencia.onrender.com  
+
+Repositório:  
+https://github.com/Renatofsds16/site_para_minhha_assistencia  
+
+### Sobre o projeto
+Sistema completo para gerenciamento de assistências técnicas, já em uso real.
+
+### Funcionalidades
+- Multiusuário (cada usuário representa uma assistência)
+- Dashboard com:
+  - Faturamento diário e mensal
+  - Controle de estoque
+  - Ordens de serviço
+  - Agendamentos
+- Controle de produtos
+- Alertas de estoque baixo
+- Gestão de garantias
+- Controle financeiro (fiado e vendas)
+
+### Em desenvolvimento
+- Integração com IA
+- Melhorias de usabilidade
+- Novas automações
+
+### Tecnologias
+- Python
+- Django
+- SQLite / PostgreSQL
+- HTML, CSS, JavaScript
+
 ---
 
-##  Tecnologias
+## Outros Projetos
+
+### Clone OLX (Flutter)
+https://github.com/Renatofsds16/xlo  
+
+Funcionalidades:
+- Criar, editar e deletar anúncios  
+- Upload de imagens  
+- Integração com API de endereços  
+
+Tecnologias:
+- Flutter
+- Dart
+
+---
+
+### Blog com Django
+Sistema de blog com gerenciamento de posts e estrutura backend.
+
+---
+
+## Tecnologias e Ferramentas
+
 - Python
 - Django
 - JavaScript
-- kotlin
-- java
 - React
 - Flutter
+- Java
+- Kotlin
 - Git e GitHub
 
 ---
 
-##  Projetos em destaque
--  Sistema para minha assistencia Tecnica ja em uso django
--  clone do app olx em flutter
--  projeto blog
+## Atualmente estudando
 
----
-
-Tecnologias:
-- Python site para minha assistencia
-
- Funcionalidades:
-- gerenciamento de usuario cada usuario com seus dados sendo cada usuario uma assistencia
-- Dashboard com imfomaçoes importante como faturamento diario, mensal estoque , agendamento ,controle de garantia
-- Lista produtos com saldo baixo no estoque facilitando a reposiçao de mercadoria
-
-## 
-(implementando novas fucionalidades)
-   Link: https://github.com/Renatofsds16/site_para_minhha_assistencia
-
-## 🌐 Projeto Online
-
-Acesse aqui: https://site-para-minhha-assistencia.onrender.com
-
----
-
-Tecnologias:
-- Flutter projeto xlo
-
- Funcionalidades:
-- criar anuncio ler, deletar e atualizr 
-- Trabalhando com imgem
-- api de endereços
-
-
- Link: https://github.com/Renatofsds16/xlo
-
----
-
-##  Atualmente estudando
-- Sistema para internet ( Uniesp )
+- Sistemas para Internet (UNIESP)
 - Desenvolvimento Backend com Django
 - APIs REST
 - Frontend com React
@@ -73,12 +96,15 @@ Tecnologias:
 
 ---
 
-##  Contato
-- LinkedIn: https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
+## Contato
+
+LinkedIn:  
+https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241  
 
 ---
 
-##  Estatísticas GitHub
+## Estatísticas
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatofsds16&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatofsds16&layout=compact&theme=dark)
