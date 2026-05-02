@@ -10,6 +10,9 @@ Sou apaixonado por tecnologia e desenvolvimento de software.
 Tenho experiência criando sistemas práticos, APIs e aplicações com foco em resolver problemas reais.
 
 ---
+## projeto principal ainda quase completo 
+- Acesse aqui: https://site-para-minhha-assistencia.onrender.com
+---
 
 ##  Tecnologias
 - Python
@@ -37,9 +40,14 @@ Tecnologias:
 - gerenciamento de usuario cada usuario com seus dados sendo cada usuario uma assistencia
 - Dashboard com imfomaçoes importante como faturamento diario, mensal estoque , agendamento ,controle de garantia
 - Lista produtos com saldo baixo no estoque facilitando a reposiçao de mercadoria
-- 
+
+## 
 (implementando novas fucionalidades)
    Link: https://github.com/Renatofsds16/site_para_minhha_assistencia
+
+## 🌐 Projeto Online
+
+Acesse aqui: https://site-para-minhha-assistencia.onrender.com
 
 ---
 
