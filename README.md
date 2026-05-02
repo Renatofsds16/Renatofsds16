@@ -1,8 +1,8 @@
-# Olá, eu sou Renato 👋
+# Olá, eu sou Renato 
 
-💻 Desenvolvedor em formação  
-🚀 Focado em Python, Django, React e Flutter  
-📚 Buscando minha primeira oportunidade na área de tecnologia  
+ Desenvolvedor em formação  
+ Focado em Python, Django, React e Flutter  
+ Buscando minha primeira oportunidade na área de tecnologia  
 
 ---
 ## sobre mim
@@ -11,7 +11,7 @@ Tenho experiência criando sistemas práticos, APIs e aplicações com foco em r
 
 ---
 
-## 🛠 Tecnologias
+##  Tecnologias
 - Python
 - Django
 - JavaScript
@@ -39,7 +39,7 @@ Tecnologias:
 - Lista produtos com saldo baixo no estoque facilitando a reposiçao de mercadoria
 - 
 (implementando novas fucionalidades)
-👉 Link: https://github.com/Renatofsds16/site_para_minhha_assistencia
+   Link: https://github.com/Renatofsds16/site_para_minhha_assistencia
 
 ---
 
@@ -52,7 +52,7 @@ Tecnologias:
 - api de endereços
 
 
-👉 Link: https://github.com/Renatofsds16/xlo
+ Link: https://github.com/Renatofsds16/xlo
 
 ---
 
@@ -65,12 +65,12 @@ Tecnologias:
 
 ---
 
-## 📫 Contato
+##  Contato
 - LinkedIn: https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
 
 ---
 
-## 📈 Estatísticas GitHub
+##  Estatísticas GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatofsds16&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatofsds16&layout=compact&theme=dark)
