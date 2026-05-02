@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software.
 Tenho experiência criando sistemas práticos, APIs e aplicações com foco em resolver problemas reais.
 
 ---
-## projeto principal ainda quase completo 
+## projeto principal  quase completo implementando novas funcionalidades IA 
 - Acesse aqui: https://site-para-minhha-assistencia.onrender.com
 ---
 
