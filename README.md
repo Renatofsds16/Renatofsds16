@@ -1,16 +1,76 @@
-## Hi there 👋
+# Olá, eu sou Renato 👋
 
-<!--
-**Renatofsds16/Renatofsds16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+🚀 Focado em Python, Django, React e Flutter  
+📚 Buscando minha primeira oportunidade na área de tecnologia  
 
-Here are some ideas to get you started:
+---
+## sobre mim
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Tenho experiência criando sistemas práticos, APIs e aplicações com foco em resolver problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologias
+- Python
+- Django
+- JavaScript
+- kotlin
+- java
+- React
+- Flutter
+- Git e GitHub
+
+---
+
+##  Projetos em destaque
+-  Sistema para minha assistencia Tecnica ja em uso django
+-  clone do app olx em flutter
+-  projeto blog
+
+---
+
+Tecnologias:
+- Python site para minha assistencia
+
+ Funcionalidades:
+- gerenciamento de usuario cada usuario com seus dados sendo cada usuario uma assistencia
+- Dashboard com imfomaçoes importante como faturamento diario, mensal estoque , agendamento ,controle de garantia
+- Lista produtos com saldo baixo no estoque facilitando a reposiçao de mercadoria
+- 
+(implementando novas fucionalidades)
+👉 Link: https://github.com/Renatofsds16/site_para_minhha_assistencia
+
+---
+
+Tecnologias:
+- Flutter projeto xlo
+
+ Funcionalidades:
+- criar anuncio ler, deletar e atualizr 
+- Trabalhando com imgem
+- api de endereços
+
+
+👉 Link: https://github.com/Renatofsds16/xlo
+
+---
+
+##  Atualmente estudando
+- Sistema para internet ( Uniesp )
+- Desenvolvimento Backend com Django
+- APIs REST
+- Frontend com React
+- Integração entre sistemas
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
+
+---
+
+## 📈 Estatísticas GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatofsds16&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatofsds16&layout=compact&theme=dark)
