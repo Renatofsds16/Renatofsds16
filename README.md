@@ -99,7 +99,10 @@ Sistema de blog com gerenciamento de posts e estrutura backend.
 ## Contato
 
 LinkedIn:  
-https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241  
+https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
+
+Email:
+renatofss16@gmail.com
 
 ---
 
