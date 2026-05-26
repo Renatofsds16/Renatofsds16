@@ -22,7 +22,15 @@ Acesse o sistema online:
 https://site-para-minhha-assistencia.onrender.com  
 
 Repositório:  
-https://github.com/Renatofsds16/site_para_minhha_assistencia  
+https://github.com/Renatofsds16/site_para_minhha_assistencia
+
+1 Projeto feito em equipe:
+ https://renatofsds16.github.io/Marco-VA-02/
+
+Repositório:  
+https://github.com/Renatofsds16/Marco-VA-02/
+
+
 
 ### Sobre o projeto
 Sistema completo para gerenciamento de assistências técnicas, já em uso real.
