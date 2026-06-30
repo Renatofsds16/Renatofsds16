@@ -1,102 +1,129 @@
 # Olá, eu sou Renato Firmino
 
-Desenvolvedor Full Stack em Formação
-Focado em Python, Django, React e Flutter
+## Desenvolvedor Full Stack em Formação  
+Focado em **Python, Django, React e Flutter**  
 Buscando minha primeira oportunidade no mercado de tecnologia
 
-Acesse meu Portfólio: [unitechref.com.br/portfolio](https://www.unitechref.com.br/portfolio/)
+---
+
+##  Links
+
+-  Portfólio: https://www.unitechref.com.br/portfolio/
+-  Blog: https://www.unitechref.com.br/blog/
 
 ---
 
-## Sobre mim
+##  Sobre mim
 
-Sou apaixonado por tecnologia, linhas de código e desenvolvimento de software. Meu foco principal é criar sistemas práticos e eficientes que resolvam problemas reais, com especial interesse em automatizar e digitalizar processos para pequenos e médios negócios.
+Sou apaixonado por tecnologia, código e desenvolvimento de software.  
+Tenho foco em criar sistemas completos e eficientes que resolvem problemas reais.
 
-Atualmente, desenvolvo aplicações completas (ponta a ponta), cuidando desde a modelagem do banco de dados e lógica de backend até a interface do usuário e o deploy em ambiente de produção.
+Atualmente trabalho no desenvolvimento de aplicações full stack, cuidando de:
 
----
-
-# Projeto Principal (Em Produção)
-
-## SmartFix — Sistema para Assistência Técnica
-
-O SmartFix é um sistema SaaS completo para gerenciamento de assistências técnicas. O projeto nasceu para resolver dores reais de gestão e já se encontra em ambiente de produção com usuários ativos.
-
-Acesse o sistema: [SmartFix Online](https://site-para-minhha-assistencia.onrender.com)
-Repositório do Código: [GitHub - SmartFix](https://github.com/Renatofsds16/site_para_minhha_assistencia)
-
-### Principais Funcionalidades
-* Multiusuário/SaaS: Cada conta criada gerencia uma assistência técnica de forma isolada.
-* Dashboard Financeiro: Gráficos e métricas de faturamento diário e mensal.
-* Controle de Estoque Inteligente: Cadastro de produtos com alertas automáticos de estoque baixo.
-* Gestão de Ordens de Serviço (O.S.): Fluxo completo desde a entrada do aparelho até a entrega.
-* Módulo Financeiro: Controle de vendas à vista, prazos, garantias e o famoso "fiado".
-
-### Em desenvolvimento (Roadmap)
-* Integração com Inteligência Artificial para diagnósticos rápidos e resumos de O.S.
-* Melhorias contínuas de UX/UI no painel administrativo.
-* Automação de notificações (envio de status via WhatsApp/E-mail).
-
-### Tecnologias Utilizadas
-* Backend: Python / Django (REST Framework)
-* Banco de Dados: SQLite (Desenvolvimento) / PostgreSQL (Produção)
-* Frontend: HTML5, CSS3, JavaScript (Bootstrap/Tailwind)
-* Deploy: Render / Git
+- Backend com Python/Django
+- Frontend com React e JavaScript
+- Aplicativos mobile com Flutter
+- Deploy e produção de sistemas reais
 
 ---
 
-## Projetos Acadêmicos e em Equipe
+#  Projetos em Destaque
 
-### Marco VA-02
-Projeto desenvolvido de forma colaborativa focado em desenvolvimento web.
-* Acesse a aplicação: [Live Demo](https://renatofsds16.github.io/Marco-VA-02/)
-* Repositório: [GitHub - Marco VA-02](https://github.com/Renatofsds16/Marco-VA-02/)
+##  SmartFix — Sistema para Assistência Técnica (PROJETO PRINCIPAL)
 
----
+O **SmartFix** é um sistema SaaS completo para gestão de assistências técnicas, já em produção com usuários ativos.
 
-## Outros Projetos
+ Acesse o sistema: https://site-para-minhha-assistencia.onrender.com  
+ Código no GitHub: https://github.com/Renatofsds16/site_para_minhha_assistencia
 
-### Clone OLX (Mobile)
-Aplicativo focado em anúncios e marketplace desenvolvido para dispositivos móveis.
-* Funcionalidades: CRUD completo de anúncios, upload de imagens nativo e integração com API de CEP/endereços.
-* Tecnologias: Flutter & Dart.
-* Repositório: [GitHub - XLO Clone](https://github.com/Renatofsds16/xlo)
+###  Principais funcionalidades
 
-### Blog Django
-Plataforma de conteúdo com painel administrativo nativo do Django, paginação e gerenciamento de posts.
+- Multiusuário (SaaS) com isolamento de contas
+- Dashboard financeiro com métricas e gráficos
+- Controle de estoque inteligente com alertas
+- Gestão completa de Ordens de Serviço (O.S.)
+- Módulo financeiro com vendas, garantias e controle de pagamentos
 
----
+###  Tecnologias
 
-## Tecnologias e Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| Backend & Linguagens | Python, Django, Java, Kotlin |
-| Frontend & Mobile | JavaScript, React, Flutter, Dart, HTML, CSS |
-| Ferramentas & DB | Git, GitHub, PostgreSQL, SQLite |
+- Python / Django / Django REST Framework
+- PostgreSQL / SQLite
+- HTML, CSS, JavaScript (Bootstrap / Tailwind)
+- Deploy: Render
 
 ---
 
-## Atualmente Estudando
+##  Blog Django — Sistema de Conteúdo com Admin Personalizado
 
-* Sistemas para Internet — UNIESP
-* Desenvolvimento Avançado de APIs REST com Django Rest Framework (DRF)
-* Integração de Frontend Moderno (React) com ecossistemas Python
+Blog desenvolvido com Django focado em gerenciamento de conteúdo com painel administrativo completo.
+
+ Acesse o blog: https://www.unitechref.com.br/blog/
+
+###  Funcionalidades
+
+- CRUD completo de posts
+- Sistema de categorias e tags
+- Painel admin personalizado com Django Admin
+- Paginação de artigos
+- Sistema de autenticação e permissões
+- Estrutura escalável para CMS
+
+###  Tecnologias
+
+- Python / Django
+- Django Admin
+- SQLite / PostgreSQL
+- HTML, CSS, Bootstrap
 
 ---
 
-## Vamos conversar?
+#  Outros Projetos
 
-Seja para um projeto, uma oportunidade de emprego ou apenas para trocar ideias sobre código, sinta-se à vontade para entrar em contato!
-
-* LinkedIn: [Renato Firmino](https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241)
-* E-mail: [renatofss16@gmail.com](mailto:renatofss16@gmail.com)
+##  Marco VA-02
+Projeto colaborativo de desenvolvimento web  
+🔗 https://renatofsds16.github.io/Marco-VA-02/
 
 ---
 
-## Estatísticas do GitHub
+##  Clone OLX (Flutter)
+Aplicativo mobile com foco em marketplace e anúncios
+
+- CRUD completo de anúncios
+- Upload de imagens
+- Integração com API de CEP
+- Flutter + Dart
+
+---
+
+#  Tecnologias
+
+| Backend | Frontend | Mobile | Banco de Dados |
+|--------|----------|--------|----------------|
+| Python | React | Flutter | PostgreSQL |
+| Django | JavaScript | Dart | SQLite |
+| DRF | HTML/CSS |  |  |
+
+---
+
+#  Atualmente estudando
+
+- Sistemas para Internet
+- Django REST Framework (avançado)
+- React + integração com APIs
+- Arquitetura de sistemas
+
+---
+
+#  Vamos conversar?
+
+- LinkedIn: https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241  
+- E-mail: renatofss16@gmail.com  
+
+---
+
+#  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renatofsds16&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatofsds16&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renatofsds16&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatofsds16&layout=compact&theme=dark" height="150"/>
 </p>
