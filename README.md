@@ -1,127 +1,225 @@
 # Olá, eu sou Renato Firmino
 
-## Desenvolvedor Full Stack em Formação  
-Focado em **Python, Django, React e Flutter**  
-Buscando minha primeira oportunidade no mercado de tecnologia
+## Desenvolvedor Full Stack em Formação
+
+Focado em **Python, Django, React, JavaScript e Flutter**  
+Buscando minha primeira oportunidade profissional na área de desenvolvimento de software.
 
 ---
 
-##  Links
+## Links
 
--  Portfólio: https://www.unitechref.com.br/portfolio/
--  Blog: https://www.unitechref.com.br/blog/
+**Portfólio:**  
+https://www.unitechref.com.br/portfolio/
 
----
+**Blog:**  
+https://www.unitechref.com.br/blog/
 
-##  Sobre mim
+**LinkedIn:**  
+https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
 
-Sou apaixonado por tecnologia, código e desenvolvimento de software.  
-Tenho foco em criar sistemas completos e eficientes que resolvem problemas reais.
-
-Atualmente trabalho no desenvolvimento de aplicações full stack, cuidando de:
-
-- Backend com Python/Django
-- Frontend com React e JavaScript
-- Aplicativos mobile com Flutter
-- Deploy e produção de sistemas reais
+**GitHub:**  
+https://github.com/Renatofsds16
 
 ---
 
-#  Projetos em Destaque
+## Sobre mim
 
-##  SmartFix — Sistema para Assistência Técnica (PROJETO PRINCIPAL)
+Sou apaixonado por tecnologia, código e desenvolvimento de software.
 
-O **SmartFix** é um sistema SaaS completo para gestão de assistências técnicas, já em produção com usuários ativos.
+Tenho foco no desenvolvimento de aplicações **Full Stack**, trabalhando desde a construção do backend e frontend até banco de dados, containerização e deploy.
 
- Acesse o sistema: https://site-para-minhha-assistencia.onrender.com  
- Código no GitHub: https://github.com/Renatofsds16/site_para_minhha_assistencia
+Tenho experiência prática desenvolvendo sistemas e aplicações com:
 
-###  Principais funcionalidades
+- Python, Django e Django REST Framework
+- React e JavaScript
+- HTML e CSS
+- Flutter e Dart
+- PostgreSQL e SQLite
+- Docker e Docker Compose
+- APIs REST
+- Git e GitHub
+- Linux
+- Deploy e configuração de aplicações em produção
 
-- Multiusuário (SaaS) com isolamento de contas
+Busco transformar problemas reais em sistemas simples, eficientes e escaláveis.
+
+---
+
+# Projetos em Destaque
+
+## SmartFix — Sistema para Assistência Técnica
+
+**Projeto principal**
+
+O **SmartFix** é um sistema SaaS para gestão de assistências técnicas, desenvolvido para centralizar operações como clientes, ordens de serviço, estoque e financeiro.
+
+**Sistema:**  
+https://site-para-minhha-assistencia.onrender.com
+
+**Código:**  
+https://github.com/Renatofsds16/site_para_minhha_assistencia
+
+### Principais funcionalidades
+
+- Multiusuário com isolamento de contas
 - Dashboard financeiro com métricas e gráficos
-- Controle de estoque inteligente com alertas
+- Controle de estoque com alertas
 - Gestão completa de Ordens de Serviço (O.S.)
-- Módulo financeiro com vendas, garantias e controle de pagamentos
+- Controle de vendas e pagamentos
+- Controle de garantias
+- Gestão de clientes e produtos
 
-###  Tecnologias
+### Tecnologias
 
-- Python / Django / Django REST Framework
-- PostgreSQL / SQLite
-- HTML, CSS, JavaScript (Bootstrap / Tailwind)
-- Deploy: Render
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+- Docker
+- Docker Compose
+- Deploy com Render
 
 ---
 
-##  Blog Django — Sistema de Conteúdo com Admin Personalizado
+# Blog Django — Sistema de Conteúdo
 
-Blog desenvolvido com Django focado em gerenciamento de conteúdo com painel administrativo completo.
+Blog desenvolvido com Django para gerenciamento de conteúdo através de um painel administrativo personalizado.
 
- Acesse o blog: https://www.unitechref.com.br/blog/
+**Acesse:**  
+https://www.unitechref.com.br/blog/
 
-###  Funcionalidades
+### Funcionalidades
 
 - CRUD completo de posts
-- Sistema de categorias e tags
-- Painel admin personalizado com Django Admin
+- Categorias e tags
+- Painel administrativo personalizado
 - Paginação de artigos
-- Sistema de autenticação e permissões
-- Estrutura escalável para CMS
+- Sistema de autenticação
+- Controle de permissões
+- Estrutura preparada para expansão
 
-###  Tecnologias
+### Tecnologias
 
-- Python / Django
+- Python
+- Django
 - Django Admin
-- SQLite / PostgreSQL
-- HTML, CSS, Bootstrap
+- SQLite
+- PostgreSQL
+- HTML
+- CSS
+- Bootstrap
 
 ---
 
-#  Outros Projetos
+# Outros Projetos
 
-##  Marco VA-02
-Projeto colaborativo de desenvolvimento web  
-🔗 https://renatofsds16.github.io/Marco-VA-02/
+## Marco VA-02
+
+Projeto colaborativo de desenvolvimento web.
+
+https://renatofsds16.github.io/Marco-VA-02/
 
 ---
 
-##  Clone OLX (Flutter)
-Aplicativo mobile com foco em marketplace e anúncios
+## Clone OLX — Flutter
 
-- CRUD completo de anúncios
+Aplicativo mobile inspirado em um marketplace de anúncios.
+
+### Funcionalidades
+
+- CRUD de anúncios
 - Upload de imagens
 - Integração com API de CEP
-- Flutter + Dart
+- Cadastro de usuários
+- Gerenciamento de produtos
+
+### Tecnologias
+
+- Flutter
+- Dart
+- APIs REST
 
 ---
 
-#  Tecnologias
+# Tecnologias e Ferramentas
 
-| Backend | Frontend | Mobile | Banco de Dados |
-|--------|----------|--------|----------------|
-| Python | React | Flutter | PostgreSQL |
-| Django | JavaScript | Dart | SQLite |
-| DRF | HTML/CSS |  |  |
+### Backend
+
+- Python
+- Django
+- Django REST Framework
+- APIs REST
+
+### Frontend
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+
+### Mobile
+
+- Flutter
+- Dart
+
+### Banco de Dados
+
+- PostgreSQL
+- SQLite
+
+### DevOps e Ferramentas
+
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- Linux
+- Deploy de aplicações
 
 ---
 
-#  Atualmente estudando
+# Atualmente estudando
 
 - Sistemas para Internet
-- Django REST Framework (avançado)
-- React + integração com APIs
+- Django REST Framework
+- React e integração com APIs
 - Arquitetura de sistemas
+- Docker e ambientes de produção
+- Desenvolvimento Full Stack
 
 ---
 
-#  Vamos conversar?
+# Contato
 
-- LinkedIn: https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241  
-- E-mail: renatofss16@gmail.com  
+Estou aberto a oportunidades de **estágio, desenvolvedor júnior e primeira oportunidade profissional em desenvolvimento de software**.
+
+**WhatsApp:**  
+[+55 (83) 99114-9501](https://wa.me/5583991149501)
+
+**E-mail:**  
+renatofss16@gmail.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
+
+**Portfólio:**  
+https://www.unitechref.com.br/portfolio/
+
+**Blog:**  
+https://www.unitechref.com.br/blog/
 
 ---
 
-#  GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renatofsds16&show_icons=true&theme=dark" height="150"/>
