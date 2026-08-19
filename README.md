@@ -2,24 +2,15 @@
 
 ## Desenvolvedor Full Stack em Formação
 
-Focado em **Python, Django, React, JavaScript e Flutter**  
+**Python | Django | Django REST Framework | React | JavaScript | Flutter | Docker**
+
 Buscando minha primeira oportunidade profissional na área de desenvolvimento de software.
 
----
-
-## Links
-
-**Portfólio:**  
-https://www.unitechref.com.br/portfolio/
-
-**Blog:**  
-https://www.unitechref.com.br/blog/
-
-**LinkedIn:**  
-https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
-
-**GitHub:**  
-https://github.com/Renatofsds16
+**WhatsApp:** [+55 (83) 99114-9501](https://wa.me/5583991149501)  
+**E-mail:** renatofss16@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241  
+**GitHub:** https://github.com/Renatofsds16  
+**Portfólio:** https://www.unitechref.com.br/portfolio/
 
 ---
 
@@ -31,18 +22,17 @@ Tenho foco no desenvolvimento de aplicações **Full Stack**, trabalhando desde 
 
 Tenho experiência prática desenvolvendo sistemas e aplicações com:
 
-- Python, Django e Django REST Framework
-- React e JavaScript
-- HTML e CSS
-- Flutter e Dart
-- PostgreSQL e SQLite
+- Backend com Python, Django e Django REST Framework
+- Frontend com React, JavaScript, HTML e CSS
+- Aplicativos mobile com Flutter e Dart
+- Bancos de dados PostgreSQL e SQLite
+- Desenvolvimento e consumo de APIs REST
 - Docker e Docker Compose
-- APIs REST
 - Git e GitHub
 - Linux
 - Deploy e configuração de aplicações em produção
 
-Busco transformar problemas reais em sistemas simples, eficientes e escaláveis.
+Busco transformar problemas reais em sistemas eficientes, organizados e escaláveis.
 
 ---
 
@@ -57,18 +47,19 @@ O **SmartFix** é um sistema SaaS para gestão de assistências técnicas, desen
 **Sistema:**  
 https://site-para-minhha-assistencia.onrender.com
 
-**Código:**  
+**Código-fonte:**  
 https://github.com/Renatofsds16/site_para_minhha_assistencia
 
 ### Principais funcionalidades
 
-- Multiusuário com isolamento de contas
+- Sistema multiusuário com isolamento de contas
 - Dashboard financeiro com métricas e gráficos
 - Controle de estoque com alertas
 - Gestão completa de Ordens de Serviço (O.S.)
 - Controle de vendas e pagamentos
 - Controle de garantias
 - Gestão de clientes e produtos
+- Autenticação e controle de acesso
 
 ### Tecnologias
 
@@ -84,7 +75,7 @@ https://github.com/Renatofsds16/site_para_minhha_assistencia
 - Tailwind CSS
 - Docker
 - Docker Compose
-- Deploy com Render
+- Render
 
 ---
 
@@ -98,7 +89,7 @@ https://www.unitechref.com.br/blog/
 ### Funcionalidades
 
 - CRUD completo de posts
-- Categorias e tags
+- Sistema de categorias e tags
 - Painel administrativo personalizado
 - Paginação de artigos
 - Sistema de autenticação
@@ -124,6 +115,7 @@ https://www.unitechref.com.br/blog/
 
 Projeto colaborativo de desenvolvimento web.
 
+**Acesse:**  
 https://renatofsds16.github.io/Marco-VA-02/
 
 ---
@@ -139,6 +131,7 @@ Aplicativo mobile inspirado em um marketplace de anúncios.
 - Integração com API de CEP
 - Cadastro de usuários
 - Gerenciamento de produtos
+- Integração com APIs
 
 ### Tecnologias
 
@@ -183,6 +176,7 @@ Aplicativo mobile inspirado em um marketplace de anúncios.
 - Git
 - GitHub
 - Linux
+- Render
 - Deploy de aplicações
 
 ---
@@ -195,27 +189,6 @@ Aplicativo mobile inspirado em um marketplace de anúncios.
 - Arquitetura de sistemas
 - Docker e ambientes de produção
 - Desenvolvimento Full Stack
-
----
-
-# Contato
-
-Estou aberto a oportunidades de **estágio, desenvolvedor júnior e primeira oportunidade profissional em desenvolvimento de software**.
-
-**WhatsApp:**  
-[+55 (83) 99114-9501](https://wa.me/5583991149501)
-
-**E-mail:**  
-renatofss16@gmail.com
-
-**LinkedIn:**  
-https://www.linkedin.com/in/renato-firmino-santos-da-silva-77488b241
-
-**Portfólio:**  
-https://www.unitechref.com.br/portfolio/
-
-**Blog:**  
-https://www.unitechref.com.br/blog/
 
 ---
 
